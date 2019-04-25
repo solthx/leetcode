@@ -4,3 +4,4 @@
 | 80    | [删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)     |  中等 | Array   | [Java](https://github.com/solthx/leetcode/blob/master/Array/80.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.java) |
 | 229    | [求众数 Ⅱ](https://leetcode.com/problems/majority-element-ii/)  | 中等 | Array | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/229.%20%23%E6%B1%82%E4%BC%97%E6%95%B0%20II.cpp) |
 | 275    | [H-Index II](https://leetcode.com/problems/h-index-ii/)  | 中等 | Array | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/275.%20H-Index%20II.cpp) |
+| 220    | [存在重复元素 III](https://leetcode.com/problems/contains-duplicate-iii/)  | 中等 | Array | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/220.%20%40%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20III.cpp) |
