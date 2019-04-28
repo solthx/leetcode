@@ -16,3 +16,4 @@
 | 42     | [接雨水](https://leetcode.com/problems/trapping-rain-water/submissions/)  | 困难 | Array && Stack | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4.cpp) |
 | 334     | [递增的三元子序列](https://leetcode.com/problems/increasing-triplet-subsequence/)  | 中等 | Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/334.%20%E9%80%92%E5%A2%9E%E7%9A%84%E4%B8%89%E5%85%83%E5%AD%90%E5%BA%8F%E5%88%97.cpp) |
 | 128     | [最长连续序列](https://leetcode.com/problems/longest-consecutive-sequence/)  | 困难 | Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.cpp) |
+| 164     | [最大间隔](https://leetcode.com/problems/maximum-gap/)  | 困难 | Array && bucket  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/164.%20%40%E6%9C%80%E5%A4%A7%E9%97%B4%E9%9A%94.cpp) |
