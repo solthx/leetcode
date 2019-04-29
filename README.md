@@ -17,4 +17,5 @@
 | 334     | [递增的三元子序列](https://leetcode.com/problems/increasing-triplet-subsequence/)  | 中等 | Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/334.%20%E9%80%92%E5%A2%9E%E7%9A%84%E4%B8%89%E5%85%83%E5%AD%90%E5%BA%8F%E5%88%97.cpp) |
 | 128     | [最长连续序列](https://leetcode.com/problems/longest-consecutive-sequence/)  | 困难 | Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.cpp) |
 | 164     | [最大间隔](https://leetcode.com/problems/maximum-gap/)  | 困难 | Array && bucket  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/164.%20%40%E6%9C%80%E5%A4%A7%E9%97%B4%E9%9A%94.cpp) |
-| 287     | [寻找重复数](https://leetcode.com/problems/find-the-duplicate-number/)  | 中等 | 二分 && 快慢指针  | [Cpp](https://github.com/solthx/leetcode/tree/master/Array/287.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0) |
+| 287     | [寻找重复数](https://leetcode.com/problems/find-the-duplicate-number/)  | 中等 | binary search && fast-slow pointer  | [Cpp](https://github.com/solthx/leetcode/tree/master/Array/287.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0) |
+| 135     | [分糖果](https://leetcode.com/problems/candy/)  | 困难 | greedy  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/135.%20%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.cpp) |
