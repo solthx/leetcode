@@ -19,3 +19,4 @@
 | 164     | [最大间隔](https://leetcode.com/problems/maximum-gap/)  | 困难 | Array && bucket  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/164.%20%40%E6%9C%80%E5%A4%A7%E9%97%B4%E9%9A%94.cpp) |
 | 287     | [寻找重复数](https://leetcode.com/problems/find-the-duplicate-number/)  | 中等 | binary search && fast-slow pointer  | [Cpp](https://github.com/solthx/leetcode/tree/master/Array/287.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0) |
 | 135     | [分糖果](https://leetcode.com/problems/candy/)  | 困难 | greedy  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/135.%20%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.cpp) |
+| 330     | [按要求补齐数组](https://leetcode.com/problems/patching-array/)  | 困难 | Array && Greedy  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/330.%20%E6%8C%89%E8%A6%81%E6%B1%82%E8%A1%A5%E9%BD%90%E6%95%B0%E7%BB%84.cpp) |
