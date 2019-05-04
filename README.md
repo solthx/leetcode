@@ -29,3 +29,5 @@
 | 57     | [插入区间](https://leetcode.com/problems/insert-interval/)  | 困难 | Array   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/57.%20%E6%8F%92%E5%85%A5%E5%8C%BA%E9%97%B4.cpp) |
 | 327     | [区间和的个数](https://leetcode.com/problems/count-of-range-sum/)  | 困难 | Array && Divide and Conquer   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/327.%20(%E7%95%A5%E9%9A%BE)%E5%8C%BA%E9%97%B4%E5%92%8C%E7%9A%84%E4%B8%AA%E6%95%B0.cpp) |
 | 56     | [合并区间](https://leetcode.com/problems/merge-intervals/)  | 中等 | Array   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/56.%20%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.cpp) |
+| 252     | [会议室](https://www.lintcode.com/problem/meeting-rooms/description)  | 简单 | Array   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/252.Meeting%20Rooms.cpp) |
+| 253     | [会议室Ⅱ](https://www.lintcode.com/problem/meeting-rooms-ii/description)  | 中等 | Array   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/253.Meeting%20Rooms%20%E2%85%A1.cpp) |
