@@ -32,3 +32,4 @@
 | 252     | [会议室](https://www.lintcode.com/problem/meeting-rooms/description)  | 简单 | Array   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/252.Meeting%20Rooms.cpp) |
 | 253     | [会议室Ⅱ](https://www.lintcode.com/problem/meeting-rooms-ii/description)  | 中等 | Array   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/253.Meeting%20Rooms%20%E2%85%A1.cpp) |
 | 352     | [将数据流变为多个不相交区间](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  | 困难 | Array   | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/352.%20%23%20%E6%8A%8A%E6%95%B0%E6%8D%AE%E6%B5%81%E5%8F%98%E6%88%90%E5%A4%9A%E4%B8%AA%E4%B8%8D%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%8C%BA%E9%97%B4.cpp) |
+| 239     | [滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/)  | 困难 | Array && deque  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.cpp) |
