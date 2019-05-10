@@ -41,3 +41,7 @@
 | 163     | [丢失的区间](https://www.lintcode.com/problem/missing-ranges/my-submissions)  | 中等 | Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/163.%E4%B8%A2%E5%A4%B1%E7%9A%84%E5%8C%BA%E9%97%B4.cpp) |
 | 88      | [合并两个有序数组](https://leetcode.com/problems/merge-sorted-array/)  | 简单 | Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) |
 | 75      | [颜色分类（三色旗问题）](https://leetcode.com/problems/sort-colors/)  | 中等 | Array && Two pointer  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/75.%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB(%E4%B8%89%E8%89%B2%E6%97%97%E9%97%AE%E9%A2%98).cpp) |
+| 283      | [移动零](https://github.com/solthx/leetcode/blob/master/Array/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.cpp)  | 简单 | Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.cpp) |
+| 376      | [摆动序列](https://leetcode.com/problems/wiggle-subsequence/)  | 中等 | Greedy && Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/376.%20%E6%91%86%E5%8A%A8%E5%BA%8F%E5%88%97.cpp) |
+
+
