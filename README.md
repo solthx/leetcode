@@ -48,4 +48,5 @@
 | 215     | [数组中第K大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/)  | 中等 | Array && QuickSort | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.cpp) |
 | 28     | [实现strStr()](https://leetcode.com/problems/implement-strstr/)  |  简单   | String && Kmp | [Cpp](https://github.com/solthx/leetcode/blob/master/String/28.%20%E5%AE%9E%E7%8E%B0strStr().cpp) |
 | 14     | [最长公共前缀](https://leetcode.com/problems/longest-common-prefix/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.cpp) |
+| 58     | [最后一个单词的长度](https://leetcode.com/problems/length-of-last-word/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/58.%20%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.cpp) |
 
