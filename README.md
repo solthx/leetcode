@@ -49,4 +49,5 @@
 | 28     | [实现strStr()](https://leetcode.com/problems/implement-strstr/)  |  简单   | String && Kmp | [Cpp](https://github.com/solthx/leetcode/blob/master/String/28.%20%E5%AE%9E%E7%8E%B0strStr().cpp) |
 | 14     | [最长公共前缀](https://leetcode.com/problems/longest-common-prefix/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.cpp) |
 | 58     | [最后一个单词的长度](https://leetcode.com/problems/length-of-last-word/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/58.%20%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.cpp) |
+| 387     | [字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/387.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.cpp) |
 
