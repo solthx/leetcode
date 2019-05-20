@@ -50,4 +50,7 @@
 | 14     | [最长公共前缀](https://leetcode.com/problems/longest-common-prefix/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.cpp) |
 | 58     | [最后一个单词的长度](https://leetcode.com/problems/length-of-last-word/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/58.%20%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.cpp) |
 | 387     | [字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/387.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.cpp) |
+| 151     | [翻转字符串里的单词](https://leetcode.com/problems/reverse-words-in-a-string/)  |  中等   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/151.%20%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.cpp) |
+| 205     | [同构字符串](https://leetcode.com/problems/isomorphic-strings/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp) |
+| 294     | [反转游戏Ⅱ](https://www.lintcode.com/problem/flip-game-ii/description)  |  简单   | String && DFS  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/294.%20%E5%8F%8D%E8%BD%AC%E6%B8%B8%E6%88%8F%E2%85%A1.cpp) |
 
