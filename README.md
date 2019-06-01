@@ -60,4 +60,7 @@
 | 38      | [报数](https://leetcode.com/problems/count-and-say/)  |  简单   | String   | [Cpp](https://github.com/solthx/leetcode/blob/master/String/38.%20%E6%8A%A5%E6%95%B0.cpp) |
 | 161      | [一次编辑距离](https://www.lintcode.com/problem/one-edit-distance/description)  |  中等   | String   | [Cpp](https://github.com/solthx/leetcode/blob/master/String/161.%20%E4%B8%80%E6%AC%A1%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.cpp) |
 | 316      | [去掉重复字符](https://leetcode.com/problems/remove-duplicate-letters/)  |  困难   | Stack && Greedy  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/316.%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D.cpp) |
+| 168,171  | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.cpp) |
+| 13  | [罗马数字转换成整数](https://leetcode.com/problems/roman-to-integer/)  |  简单   | String  | [Python3](https://github.com/solthx/leetcode/blob/master/String/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.py) |
+| 12  | [整数转换成罗马数字](https://leetcode.com/problems/integer-to-roman/)  |  中等   | String  | [Python3](https://github.com/solthx/leetcode/blob/master/String/12.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.py) |
 
