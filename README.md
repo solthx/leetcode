@@ -64,4 +64,5 @@
 | 13  | [罗马数字转换成整数](https://leetcode.com/problems/roman-to-integer/)  |  简单   | String && Math | [Python3](https://github.com/solthx/leetcode/blob/master/String/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.py) |
 | 12  | [整数转换成罗马数字](https://leetcode.com/problems/integer-to-roman/)  |  中等   | String && Math | [Python3](https://github.com/solthx/leetcode/blob/master/String/12.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.py) |
 | 273  | [整数转换英文表示](https://leetcode.com/problems/integer-to-english-words/)  |  困难   | String && Math | [Python3](https://github.com/solthx/leetcode/blob/master/String/273.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA.py) |
+|  246 | [镜像数字](https://www.lintcode.com/problem/strobogrammatic-number/description)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/246.%20%E9%95%9C%E5%83%8F%E6%95%B0%E5%AD%97.cpp) |
 
