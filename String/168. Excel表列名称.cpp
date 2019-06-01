@@ -42,3 +42,13 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    int titleToNumber(string s) {
+        int res=0;
+        for ( auto e:s )
+            res = res*26 + (e-'A'+1) ;
+        return res;
+    }
+};
