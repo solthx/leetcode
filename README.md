@@ -56,4 +56,8 @@
 | 49      | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  |  中等   | Hashmap  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.cpp) |
 | 87      | [扰乱字符串](https://leetcode.com/problems/scramble-string/)  |  困难   | DFS && Backtracking  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/87.%20%E6%89%B0%E4%B9%B1%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp) |
 | 179      | [最大数](https://leetcode.com/problems/largest-number/)  |  中等   | string && sort  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/179.%20%E6%9C%80%E5%A4%A7%E6%95%B0.cpp) |
+| 6      | [Z字型变换](https://leetcode.com/problems/zigzag-conversion/)  |  中等   | string   | [Cpp](https://github.com/solthx/leetcode/blob/master/String/6.%20Z%E5%AD%97%E5%9E%8B%E5%8F%98%E6%8D%A2.cpp) |
+| 38      | [报数](https://leetcode.com/problems/count-and-say/)  |  简单   | string   | [Cpp](https://github.com/solthx/leetcode/blob/master/String/38.%20%E6%8A%A5%E6%95%B0.cpp) |
+| 161      | [一次编辑距离](https://www.lintcode.com/problem/one-edit-distance/description)  |  中等   | string   | [Cpp](https://github.com/solthx/leetcode/blob/master/String/161.%20%E4%B8%80%E6%AC%A1%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.cpp) |
+| 316      | [去掉重复字符](https://leetcode.com/problems/remove-duplicate-letters/)  |  困难   | stack && greedy  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/316.%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D.cpp) |
 
