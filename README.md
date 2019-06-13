@@ -66,4 +66,6 @@
 | 273  | [整数转换英文表示](https://leetcode.com/problems/integer-to-english-words/)  |  困难   | String && Math | [Python3](https://github.com/solthx/leetcode/blob/master/String/273.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA.py) |
 |  246 | [镜像数字](https://www.lintcode.com/problem/strobogrammatic-number/description)  |  简单   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/246.%20%E9%95%9C%E5%83%8F%E6%95%B0%E5%AD%97.cpp) |
 |  32 | [最长有效括号](https://leetcode.com/problems/longest-valid-parentheses/)  |  困难   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.cpp) |
+|  65 | [有效数字](https://leetcode.com/problems/valid-number/)  |  困难   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/65.%20%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97.cpp) |
+|  68 | [文本左右对齐](https://leetcode.com/problems/text-justification/)  |  困难   | String | [Cpp](https://github.com/solthx/leetcode/blob/master/String/68.%20%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.cpp) |
 
