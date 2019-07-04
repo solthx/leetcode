@@ -68,4 +68,5 @@
 |  32 | [最长有效括号](https://leetcode.com/problems/longest-valid-parentheses/)  |  困难   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.cpp) |
 |  65 | [有效数字](https://leetcode.com/problems/valid-number/)  |  困难   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/65.%20%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97.cpp) |
 |  68 | [文本左右对齐](https://leetcode.com/problems/text-justification/)  |  困难   | String | [Cpp](https://github.com/solthx/leetcode/blob/master/String/68.%20%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.cpp) |
+|  76 | [最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/submissions/)  |  困难   | String && Sliding window| [Cpp](https://github.com/solthx/leetcode/blob/master/String/76.%20%23%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.cpp) |
 
