@@ -69,4 +69,8 @@
 |  65 | [有效数字](https://leetcode.com/problems/valid-number/)  |  困难   | String  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/65.%20%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97.cpp) |
 |  68 | [文本左右对齐](https://leetcode.com/problems/text-justification/)  |  困难   | String | [Cpp](https://github.com/solthx/leetcode/blob/master/String/68.%20%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.cpp) |
 |  76 | [最小覆盖子串](https://leetcode.com/problems/minimum-window-substring/submissions/)  |  困难   | String && Sliding window| [Cpp](https://github.com/solthx/leetcode/blob/master/String/76.%20%23%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.cpp) |
+|  336 | [回文对](https://leetcode.com/problems/palindrome-pairs/)  |  困难   | String && Hash| [Cpp](https://github.com/solthx/leetcode/blob/master/String/336.%20%E5%9B%9E%E6%96%87%E5%AF%B9.cpp) |
+|  214 | [最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/)  |  困难   | String | [Cpp](https://github.com/solthx/leetcode/blob/master/String/214.%20%E6%9C%80%E7%9F%AD%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) |
+|  395 | [至少有K个重复字符的最长子串](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)  |  中等   | String && Divide and Conquer | [Cpp](https://github.com/solthx/leetcode/blob/master/String/395.%20%E8%87%B3%E5%B0%91%E6%9C%89K%E4%B8%AA%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.cpp) |
+|  30 | [串联所有单词的子串](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)  |  中等   | String && Sliding window | [Cpp](https://github.com/solthx/leetcode/blob/master/String/30.%20%E4%B8%B2%E8%81%94%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E7%9A%84%E5%AD%90%E4%B8%B2.cpp) |
 
