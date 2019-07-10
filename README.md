@@ -80,3 +80,7 @@
 |  301 | [删除无效的括号](https://leetcode.com/problems/remove-invalid-parentheses/)  |  困难   | String && (DFS or BFS) | [Cpp](https://github.com/solthx/leetcode/blob/master/String/301.%20%E5%88%A0%E9%99%A4%E6%97%A0%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.cpp) |
 |  115 | [不同的子序列](https://leetcode.com/problems/distinct-subsequences/submissions/)  |  困难   | String && Dp | [Cpp](https://github.com/solthx/leetcode/blob/master/String/115.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.cpp) |
 |  187 | [重复的DNA序列](https://leetcode.com/problems/repeated-dna-sequences/)  |  中等   | String && Bit Manipulation | [Cpp](https://github.com/solthx/leetcode/blob/master/String/187.%20%E9%87%8D%E5%A4%8D%E7%9A%84DNA%E5%BA%8F%E5%88%97.cpp) |
+|  258 | [各位相加](https://leetcode-cn.com/problems/add-digits/)  |  简单   | String && Math | [Cpp](https://github.com/solthx/leetcode/blob/master/String/258.%20%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.cpp) |
+|  29 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/)  |  简单   | String && Binary Search | [Cpp](https://github.com/solthx/leetcode/blob/master/String/29.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.cpp) |
+|  204 | [计算素数个数](https://leetcode.com/problems/count-primes/)  |  简单   | String && Math | [Cpp](https://github.com/solthx/leetcode/blob/master/String/204.%20%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.cpp) |
+|  365 | [水壶问题](https://leetcode.com/problems/water-and-jug-problem/)  |  简单   | String && Math | [Cpp](https://github.com/solthx/leetcode/blob/master/String/365.%20%E6%B0%B4%E5%A3%B6%E9%97%AE%E9%A2%98.cpp) |
