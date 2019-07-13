@@ -85,5 +85,5 @@
 |  204 | [计算素数个数](https://leetcode.com/problems/count-primes/)  |  简单   | String && Math | [Cpp](https://github.com/solthx/leetcode/blob/master/String/204.%20%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.cpp) |
 |  365 | [水壶问题](https://leetcode.com/problems/water-and-jug-problem/)  |  简单   | String && Math | [Cpp](https://github.com/solthx/leetcode/blob/master/String/365.%20%E6%B0%B4%E5%A3%B6%E9%97%AE%E9%A2%98.cpp) |
 |  15 | [3Sum](https://leetcode.com/problems/3sum/)  |  中等   |  Binary Serach && Two Pointer | [Cpp](https://github.com/solthx/leetcode/blob/master/String/15.%203Sum.cpp) |
-|  372 | [Super Pow](https://leetcode.com/problems/super-pow/)  |  中等   |  Math | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/372.%20Super%20Pow.java) |
-|  454 | [4Sum II](https://leetcode.com/problems/4sum-ii/)  |  中等   | HashMap | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/454.%204Sum%20II.java) |
+|  372 | [Super Pow](https://leetcode.com/problems/super-pow/)  |  中等   |  Math | [Java](https://github.com/solthx/leetcode/blob/master/Math/372.%20Super%20Pow.java) |
+|  454 | [4Sum II](https://leetcode.com/problems/4sum-ii/)  |  中等   | HashMap | [Java](https://github.com/solthx/leetcode/blob/master/Math/454.%204Sum%20II.java) |
