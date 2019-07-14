@@ -87,3 +87,5 @@
 |  15 | [3Sum](https://leetcode.com/problems/3sum/)  |  中等   |  Binary Serach && Two Pointer | [Cpp](https://github.com/solthx/leetcode/blob/master/String/15.%203Sum.cpp) |
 |  372 | [Super Pow](https://leetcode.com/problems/super-pow/)  |  中等   |  Math | [Java](https://github.com/solthx/leetcode/blob/master/Math/372.%20Super%20Pow.java) |
 |  454 | [4Sum II](https://leetcode.com/problems/4sum-ii/)  |  中等   | HashMap | [Java](https://github.com/solthx/leetcode/blob/master/Math/454.%204Sum%20II.java) |
+|  698 | [划分为k个相等子集](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)  |  中等   | Recursion | [Java](https://github.com/solthx/leetcode/blob/master/Recursion/698.%20%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86.java) |
+|  329 | [矩阵中的最长递增路径](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  |  困难   | Dp && Matrix | [Java](https://github.com/solthx/leetcode/blob/master/Dp/329.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.java) |
