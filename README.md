@@ -96,7 +96,6 @@
 |  363 | [矩形区域不超过k的最大数值和](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)  |  困难   | Dp && Matrix  | [Java](https://github.com/solthx/leetcode/blob/master/Dp/363.%20%23%23%23%20%E7%9F%A9%E5%BD%A2%E5%8C%BA%E5%9F%9F%E4%B8%8D%E8%B6%85%E8%BF%87%20K%20%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E5%80%BC%E5%92%8C.java) |
 |  202 | [快乐数](https://leetcode.com/problems/happy-number/)  |  简单   | Math  | [Java](https://github.com/solthx/leetcode/blob/master/Math/202.%20%E5%BF%AB%E4%B9%90%E6%95%B0.java) |
 |  172 | [阶乘后的0](https://leetcode.com/problems/factorial-trailing-zeroes/)  |  简单   | Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/172.%20%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.cpp) |
-
 |  343 | [整数拆分](https://leetcode.com/problems/integer-break/)  |  中等   | Math && Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/343.%20%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.cpp) |
 |  396 | [旋转函数](https://leetcode.com/problems/rotate-function/)  |  中等   | Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/396.%20%E6%97%8B%E8%BD%AC%E5%87%BD%E6%95%B0.cpp) |
 |  390 | [消除游戏](https://leetcode.com/problems/elimination-game/)  |  中等   | Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/390.%20%E6%B6%88%E9%99%A4%E6%B8%B8%E6%88%8F.cpp) |
