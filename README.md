@@ -99,3 +99,8 @@
 |  343 | [整数拆分](https://leetcode.com/problems/integer-break/)  |  中等   | Math && Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/343.%20%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.cpp) |
 |  396 | [旋转函数](https://leetcode.com/problems/rotate-function/)  |  中等   | Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/396.%20%E6%97%8B%E8%BD%AC%E5%87%BD%E6%95%B0.cpp) |
 |  390 | [消除游戏](https://leetcode.com/problems/elimination-game/)  |  中等   | Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/390.%20%E6%B6%88%E9%99%A4%E6%B8%B8%E6%88%8F.cpp) |
+|  357 | [计算各个位数不同的数字个数](https://leetcode.com/problems/count-numbers-with-unique-digits/)  |  中等   | Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/357.%20%E8%AE%A1%E7%AE%97%E5%90%84%E4%B8%AA%E4%BD%8D%E6%95%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E6%95%B0%E5%AD%97%E4%B8%AA%E6%95%B0.cpp) |
+|  90 | [子集II](https://leetcode.com/problems/subsets-ii/)  |  中等   | Backtracing  | [Cpp](https://github.com/solthx/leetcode/blob/master/Recursion/90.%20%E5%AD%90%E9%9B%86%20II.cpp) |
+|  377 | [组合总和IV](https://leetcode.com/problems/combination-sum-iv/)  |  中等   | Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/377.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.cpp) |
+|  31 | [下一个排列](https://leetcode.com/problems/next-permutation/)  |  中等   | Array  | [Java](https://github.com/solthx/leetcode/blob/master/Array/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.java) |
+|  60 | [第k个全排列](https://leetcode-cn.com/problems/permutation-sequence/submissions/)  |  中等   | Backtracing  | [Java](https://github.com/solthx/leetcode/blob/master/Recursion/60.%20%E7%AC%ACk%E4%B8%AA%E6%8E%92%E5%88%97.java) |
