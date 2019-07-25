@@ -111,3 +111,4 @@
 |  279 | [完全平方数](https://leetcode.com/problems/perfect-squares/)  |  中等   | Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Recursion/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.cpp) |
 |  375 | [猜数字大小II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)  |  中等   |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/375.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F%20II.cpp) |
 |  312 | [戳气球](https://leetcode.com/problems/burst-balloons/)  |  困难   |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/312.%20%E6%88%B3%E6%B0%94%E7%90%83.cpp) |
+|  365 | [房屋染色II](https://www.lintcode.com/problem/paint-house-ii/description)  |  困难   |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/265.%20%E6%88%BF%E5%B1%8B%E6%9F%93%E8%89%B2%20II.cpp) |
