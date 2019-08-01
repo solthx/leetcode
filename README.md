@@ -120,3 +120,6 @@
 |  174 | [地下城游戏](https://leetcode.com/problems/dungeon-game/)  |  困难  |  Matrix && Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/174.%20%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%B8%B8%E6%88%8F.cpp) |
 |  542 | [01矩阵](https://leetcode.com/problems/01-matrix/)  |  中等  |   BFS  | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/542.%2001%20%E7%9F%A9%E9%98%B5.cpp) |
 |  317 | [建筑物之间的最短距离](https://www.lintcode.com/problem/shortest-distance-from-all-buildings/description)  |  困难  |   BFS  | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/317.%20%E5%BB%BA%E7%AD%91%E7%89%A9%E4%B9%8B%E9%97%B4%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.cpp) |
+|  221 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/)  |  中等  |   DP && Matrix  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/221.%20%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.cpp) |
+|  85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  |  困难  |   DP && Matrix  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/85.%20%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.cpp) |
+|  84 | [柱状图中的最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  |  困难  |   Stack  | [Cpp](https://github.com/solthx/leetcode/blob/master/Stack/84.%40%40%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.cpp) |
