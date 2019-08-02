@@ -123,3 +123,6 @@
 |  221 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/)  |  中等  |   DP && Matrix  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/221.%20%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.cpp) |
 |  85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  |  困难  |   DP && Matrix  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/85.%20%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.cpp) |
 |  84 | [柱状图中的最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  |  困难  |   Stack  | [Cpp](https://github.com/solthx/leetcode/blob/master/Stack/84.%40%40%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.cpp) |
+|  198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  |  简单  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.cpp) |
+|  213 | [打家劫舍II](https://github.com/solthx/leetcode/blob/master/Dp/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.cpp)  |  中等  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/213.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.cpp) |
+|  276 | [栅栏涂色](https://leetcode-cn.com/problems/paint-fence/)  |  简单  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/276.%20%E6%A0%85%E6%A0%8F%E6%B6%82%E8%89%B2.cpp) |
