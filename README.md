@@ -126,3 +126,7 @@
 |  198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  |  简单  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.cpp) |
 |  213 | [打家劫舍II](https://github.com/solthx/leetcode/blob/master/Dp/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.cpp)  |  中等  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/213.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.cpp) |
 |  276 | [栅栏涂色](https://leetcode-cn.com/problems/paint-fence/)  |  简单  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/276.%20%E6%A0%85%E6%A0%8F%E6%B6%82%E8%89%B2.cpp) |
+|  91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/)  |  中等  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/91.%20%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.cpp) |
+|  10 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)  |  困难  |   Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.cpp) |
+|  370 | [区间加法](https://leetcode-cn.com/problems/range-addition/)  |  中等  |   Array  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/370.%20%E5%8C%BA%E9%97%B4%E5%8A%A0%E6%B3%95.cpp) |
+|  296 | [嘴贱的碰头地点](https://leetcode-cn.com/problems/best-meeting-point/)  |  困难  |   Array && Sort  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/296.%20%E6%9C%80%E4%BD%B3%E7%9A%84%E7%A2%B0%E5%A4%B4%E5%9C%B0%E7%82%B9.cpp) |
