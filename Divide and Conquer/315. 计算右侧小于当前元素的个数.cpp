@@ -12,10 +12,21 @@
 
 
         方法二:
-            感觉单调栈+树状数组也可以做。。下次再写吧。。
+            树状数组。
+            对于求逆序对的个数问题，也可以使用树状数组来做。。
+            主要思想就是：
+                1. 通过i从大到小遍历的顺序来满足i<j, 也就是当前遍历到的nums[i]
+            是在 "nums[i]<nums[j]"中的更小的那个元素。
+                2. 通过一个count数组，来保存已经遍历过的元素的个数(也就是nums[j])，
+            因为是逆向遍历，j属于(i,n) ， 然后遍历到nums[i]的时候， count数组里的nums[i]
+            的前缀和就是 在nums[i]右边的比nums[i]小的元素的个数.
+
+
+            而树状数组主要就是用于 "单点修改, 区间查询" 正好满足本题条件，
+            用树状数组的思想来建立前面说到的count数组  
  */
 
- class Solution {
+class Solution1 {
 public:
     vector<int> countSmaller(vector<int>& num) {
         vector<pair<int,int>> tmp(num.size());
@@ -62,3 +73,45 @@ public:
 
 };
 
+
+
+
+class Solution2 {
+private:
+    vector<int> tree_arr;   
+    int lowbit(int x){ return x&(-x); }   
+    void add(int idx, int val){
+        int n=tree_arr.size();
+        while( idx<tree_arr.size() ){
+            tree_arr[idx] += val;
+            idx += lowbit(idx);
+        }
+    }  
+    int pre_sum( int idx ){
+        int res=0;
+        while( idx>0 ){
+            res += tree_arr[idx];
+            idx -= lowbit(idx);
+        }
+        return res;
+    }   
+public:
+    vector<int> countSmaller(vector<int>& nums) {
+        // 树状数组
+        if ( nums.size()<=0 ) return {};
+        int maxi = nums[0], mini = nums[0];
+        for ( auto e:nums )
+            if ( e>maxi ) maxi = e;
+            else if ( e<mini ) mini = e;
+        int n = maxi - mini + 2;  //个数是maxi-mini+1 , 又因为要从0开始，所以再+1
+        tree_arr.resize(n,0);
+        vector<int> res(nums.size());
+        for ( int i=nums.size()-1 ; i>=0; --i ){
+            //cout<<i<<endl;
+            res[i] = pre_sum( nums[i] - mini );
+            add( nums[i] - mini + 1, 1 );
+        }
+        
+        return res;
+    }
+};
