@@ -156,8 +156,6 @@
 | 254 | [因子的组合](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree/)  |  中等  |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/254.%20%E5%9B%A0%E5%AD%90%E7%9A%84%E7%BB%84%E5%90%88.cpp) |
 | 446 | [等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/)  |  困难  |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/446.%20%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E5%88%92%E5%88%86%20II%20-%20%E5%AD%90%E5%BA%8F%E5%88%97.cpp) |
 | 1121 | [将数组分成几个递增序列](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/)  |  困难  |  Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/1121.%20%E5%B0%86%E6%95%B0%E7%BB%84%E5%88%86%E6%88%90%E5%87%A0%E4%B8%AA%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.cpp) |
-
-
 | 1155 | [掷骰子的N种方法](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/)  |  中等  |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/1155.%20%E6%8E%B7%E9%AA%B0%E5%AD%90%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95.cpp) |
 | 1156 | [单字符重复子串的最大长度](https://leetcode-cn.com/contest/weekly-contest-149/problems/swap-for-maximum-repeated-substring/)  |  中等  |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/1151.%20%E6%9C%80%E5%B0%91%E4%BA%A4%E6%8D%A2%E6%AC%A1%E6%95%B0%E6%9D%A5%E7%BB%84%E5%90%88%E6%89%80%E6%9C%89%E7%9A%84%201.cpp) |
 | 1151 | [最少交换次数来组合所有的1](https://leetcode-cn.com/contest/biweekly-contest-6/problems/minimum-swaps-to-group-all-1s-together/)  |  中等  |  Array && Sliding window  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/1155.%20%E6%8E%B7%E9%AA%B0%E5%AD%90%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95.cpp) |
