@@ -31,6 +31,46 @@
     
             出了循环说明不管当前选1～n的哪一个数都不能必赢
             那就返回false
+
+        顺便记录一下遇到的两个容易忽略的bug：
+            第一个坑： 在做回溯的时候，一定！！要考虑是不是所有情况都回溯了！！
+                例如:
+                
+                ...
+                ...
+                    if ( !visited[i] ){
+                        visited[i]= true;
+                        ...
+                        ...               
+                        if (..){
+                            return ..;
+                        }
+                        ...
+                        ...
+                        visited[i] = false;
+                    }
+                这就是没考虑到所有情况！！！因为在if返回的时候，没有把visited[i]置回去！！！
+                正确的应该是
+                if ( !visited[i] ){
+                        visited[i]= true;
+                        ...
+                        ...               
+                        if (..){
+                            visited[i]=false; // 置回去！！！！！
+                            return ..;
+                        }
+                        ...
+                        ...
+                        visited[i] = false;
+                    }
+            第二个坑：
+                做位运算的时候，加括号吧！！！
+                if ( cur & mask == 0 ) 和 if ( (cur & mask) ==0  )
+                是不一样的！！！ 前者会先计算mask==0 ！！！
+                位运算优先级这么低的话，以后每次用到位运算都加上括号！！！！！
+
+
+
 */
 class Solution {
 public:
