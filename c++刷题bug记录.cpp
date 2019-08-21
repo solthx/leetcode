@@ -20,3 +20,9 @@
     string& operator+=(const string&) does not create a new string object. It modifies the existing string buffer in-place - unless a larger buffer is needed, in which case reallocation cannot be avoided.
 
     So, res += c avoids creation of temporary buffers in dynamic memory. If the string is large enough, doubling the number of simultaneously used copies can roughly double the peak memory use of the program. Also, the extra temporary allocations may increase the fragmentation of dynamic memory space, which increases the overhead of dynamic memory management. These two factors may cause the memory limit given for the program to be exceeded.
+
+
+2. 位运算的优先级 极低， 用的时候一定要加括号
+
+例如 if (cur & 1 == 0) ..  会先计算1==0 然后再和cur进行与
+正确的应该是 if ((cur&1)==0) ..  
