@@ -35,3 +35,10 @@
         first : 1
         second: abc
         third : 55
+
+三、查找首个: (序列为升序)  
+    1. 大于等于等于k :  lower_bound
+    2. 大于k :         upper_bound
+    3. 最后一个小于k :  (1.)--; 
+    iterator 是可以用 +1 -1 来前进后退的, 由此可以实现所有情况！
+ 
