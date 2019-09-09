@@ -219,3 +219,4 @@
 |  5183 | [一周的第几天](https://leetcode-cn.com/contest/problems/day-of-the-week/)  |  简单   | Math  | [Cpp](https://github.com/solthx/leetcode/blob/master/Math/5183.%20%E4%B8%80%E5%91%A8%E4%B8%AD%E7%9A%84%E7%AC%AC%E5%87%A0%E5%A4%A9.cpp)  |
 |  162 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)  |  中等   | Binary Search  | [Cpp](https://github.com/solthx/leetcode/blob/master/BinarySeach/162.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.cpp)  |
 |  138 | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)  |  中等   | 有丝分裂法 or Hashmap  | [Cpp](https://github.com/solthx/leetcode/blob/master/Linklist/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.cpp)  |
+| 166| [分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)  |  中等   | Math && Hashmap  | [Cpp](https://github.com/solthx/leetcode/blob/master/Hashmap/166.%20%E5%88%86%E6%95%B0%E5%88%B0%E5%B0%8F%E6%95%B0.cpp)  |
