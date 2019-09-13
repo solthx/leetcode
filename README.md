@@ -224,3 +224,4 @@
 | 201| [数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/)  |  中等   | Bit Manipulation  | [Cpp](https://github.com/solthx/leetcode/blob/master/Bit%20Manipulation/201.%20%E6%95%B0%E5%AD%97%E8%8C%83%E5%9B%B4%E6%8C%89%E4%BD%8D%E4%B8%8E.cpp)  |
 | 740| [删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)  |  中等   | Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/740.%20%E5%88%A0%E9%99%A4%E4%B8%8E%E8%8E%B7%E5%BE%97%E7%82%B9%E6%95%B0.cpp)  |
 | 223| [矩形面积](https://leetcode-cn.com/problems/rectangle-area/)  |  中等   | Math && IOU  | [Python3](https://github.com/solthx/leetcode/blob/master/Math/223.%20%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF.py)  |
+| 224| [基本计算器](https://leetcode-cn.com/problems/basic-calculator/)  |  困难   | Math && Stack  | [Cpp](https://github.com/solthx/leetcode/blob/master/Stack/%E4%B8%AD%E7%BC%80%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E8%AE%A1%E7%AE%97/224.%20%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8.cpp)  |
