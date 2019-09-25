@@ -245,3 +245,4 @@
 | 402| [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)  |   中等  |  Heap  | [Cpp](https://github.com/solthx/leetcode/blob/master/Stack/402.%20%E7%A7%BB%E6%8E%89K%E4%BD%8D%E6%95%B0%E5%AD%97.cpp)|
 | 311| [稀疏矩阵的乘法](https://leetcode-cn.com/problems/sparse-matrix-multiplication/)  |   中等  |  Matrix  | [Cpp](https://github.com/solthx/leetcode/blob/master/Matrix/311.%20%E7%A8%80%E7%96%8F%E7%9F%A9%E9%98%B5%E7%9A%84%E4%B9%98%E6%B3%95.cpp)|
 | 331| [验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)  |   中等  |  Tree  | [Cpp](https://github.com/solthx/leetcode/blob/master/Tree/331.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E5%BA%8F%E5%88%97%E5%8C%96.cpp)|
+| 499| [迷宫III](https://leetcode-cn.com/problems/the-maze-iii/)  |   困难  |  BFS  | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/499.%20%E8%BF%B7%E5%AE%AB%20III.cpp)|
