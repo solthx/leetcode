@@ -251,5 +251,5 @@
 | 651| [4键键盘](https://leetcode-cn.com/problems/4-keys-keyboard/)  |   中等  |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/651.%204%E9%94%AE%E9%94%AE%E7%9B%98.cpp)|
 | 688| [“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)  |   中等  |  Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/688.%20%E2%80%9C%E9%A9%AC%E2%80%9D%E5%9C%A8%E6%A3%8B%E7%9B%98%E4%B8%8A%E7%9A%84%E6%A6%82%E7%8E%87.cpp)|
 | 406| [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)  |   中等  |  Greedy  | [Cpp](https://github.com/solthx/leetcode/blob/master/Greedy/406.%20%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.cpp)|
-| LCP 4| [覆盖]](https://leetcode-cn.com/problems/broken-board-dominoes/)  |   困难  |  Graph  | [Cpp](https://github.com/solthx/leetcode/blob/master/Graph/LCP%204.%20%E8%A6%86%E7%9B%96.cpp)|
-| LCP 5| [发LeetCoin]](https://leetcode-cn.com/problems/coin-bonus/)  |   困难  |  Tree  | [Cpp](https://github.com/solthx/leetcode/blob/master/Tree/LCP%205.%20%E5%8F%91%20LeetCoin.cpp)|
+| LCP 4| [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/)  |   困难  |  Graph  | [Cpp](https://github.com/solthx/leetcode/blob/master/Graph/LCP%204.%20%E8%A6%86%E7%9B%96.cpp)|
+| LCP 5| [发LeetCoin](https://leetcode-cn.com/problems/coin-bonus/)  |   困难  |  Tree  | [Cpp](https://github.com/solthx/leetcode/blob/master/Tree/LCP%205.%20%E5%8F%91%20LeetCoin.cpp)|
