@@ -253,3 +253,5 @@
 | 406| [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)  |   中等  |  Greedy  | [Cpp](https://github.com/solthx/leetcode/blob/master/Greedy/406.%20%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.cpp)|
 | LCP 4| [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/)  |   困难  |  Graph  | [Cpp](https://github.com/solthx/leetcode/blob/master/Graph/LCP%204.%20%E8%A6%86%E7%9B%96.cpp)|
 | LCP 5| [发LeetCoin](https://leetcode-cn.com/problems/coin-bonus/)  |   困难  |  Tree  | [Cpp](https://github.com/solthx/leetcode/blob/master/Tree/LCP%205.%20%E5%8F%91%20LeetCoin.cpp)|
+| 341| [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)  |   中等  |  Stack  | [Cpp](https://github.com/solthx/leetcode/blob/master/Stack/341.%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8%E8%BF%AD%E4%BB%A3%E5%99%A8.cpp)|
+| 313| [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/)  |   中等  |  Heap && Math && Dp  | [Cpp](https://github.com/solthx/leetcode/blob/master/Heap/313.%20%E8%B6%85%E7%BA%A7%E4%B8%91%E6%95%B0.cpp)|
