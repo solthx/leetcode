@@ -277,3 +277,4 @@
 | 391| [完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)  |   困难  |  Sweeping line && Set  | [Cpp](https://github.com/solthx/leetcode/blob/master/Matrix/391.%20%E5%AE%8C%E7%BE%8E%E7%9F%A9%E5%BD%A2.cpp)|
 | 743| [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)  |   中等  |  Graph && 最短路径  | [Cpp](https://github.com/solthx/leetcode/blob/master/Matrix/391.%20%E5%AE%8C%E7%BE%8E%E7%9F%A9%E5%BD%A2.cpp)|
 | 364| [加权嵌套序列和II](https://leetcode-cn.com/problems/nested-list-weight-sum-ii/)  |   中等  |  Recursion  | [Cpp](https://github.com/solthx/leetcode/blob/master/Recursion/364.%20%E5%8A%A0%E6%9D%83%E5%B5%8C%E5%A5%97%E5%BA%8F%E5%88%97%E5%92%8C%20II.cpp)|
+| 625| [加权嵌套序列和II](https://leetcode-cn.com/problems/minimum-factorization/)  |   中等  |  Recursion  | [Cpp](https://github.com/solthx/leetcode/tree/master/Recursion)|
