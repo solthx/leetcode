@@ -40,6 +40,7 @@
         原语就是 以某个位置为中心，左括号数==右括号数
 */
 
+
 class Solution {
 public:
     string removeOuterParentheses(string S) {
