@@ -284,3 +284,5 @@
 | 468| [验证ip地址](https://leetcode-cn.com/problems/validate-ip-address/)  |   中等  |  String && Split  | [Cpp](https://github.com/solthx/leetcode/blob/master/String/678.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|
 | 5232| [替换子串得到平衡字符串](https://leetcode-cn.com/problems/validate-ip-address/)  |   中等  |  Sliding Window  | [Cpp](https://github.com/solthx/leetcode/blob/master/Sliding%20Window/5232.%20%E6%9B%BF%E6%8D%A2%E5%AD%90%E4%B8%B2%E5%BE%97%E5%88%B0%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)|
 | 5233| [规划兼职工作](https://leetcode-cn.com/problems/validate-ip-address/)  |   困难  |  Dp && Sort && Binary Search  | [Cpp](https://github.com/solthx/leetcode/blob/master/BinarySeach/5233.%20%E8%A7%84%E5%88%92%E5%85%BC%E8%81%8C%E5%B7%A5%E4%BD%9C.cpp)|
+
+i' m in max.
