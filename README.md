@@ -305,3 +305,8 @@
 | 452| [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)  |   中等  |  Greedy | [Cpp](https://github.com/solthx/leetcode/blob/master/Greedy/452.%20%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.cpp)|
 | 488| [祖玛游戏](https://leetcode-cn.com/problems/zuma-game/)  |   困难  |  DFS | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/488.%20%E7%A5%96%E7%8E%9B%E6%B8%B8%E6%88%8F.cpp)|
 | 546| [移除盒子](https://leetcode-cn.com/problems/remove-boxes/)  |   困难  |  DFS && Memo | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/546.%20%E7%A7%BB%E9%99%A4%E7%9B%92%E5%AD%90.cpp)|
+| 1255 | [得分最高的单词集合](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters/)  |   困难  |  Bit Manipulation && Enum | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/1255.%20%E5%BE%97%E5%88%86%E6%9C%80%E9%AB%98%E7%9A%84%E5%8D%95%E8%AF%8D%E9%9B%86%E5%90%88.cpp)|
+| 711 | [不同岛屿数量II](https://leetcode-cn.com/problems/number-of-distinct-islands-ii/)  |   困难  |  HashMap && Math | [Cpp](https://github.com/solthx/leetcode/blob/master/Hashmap/711.%20%E4%B8%8D%E5%90%8C%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F%20II.CPP)|
+
+
+
