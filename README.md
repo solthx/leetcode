@@ -307,6 +307,4 @@
 | 546| [移除盒子](https://leetcode-cn.com/problems/remove-boxes/)  |   困难  |  DFS && Memo | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/546.%20%E7%A7%BB%E9%99%A4%E7%9B%92%E5%AD%90.cpp)|
 | 1255 | [得分最高的单词集合](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters/)  |   困难  |  Bit Manipulation && Enum | [Cpp](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/1255.%20%E5%BE%97%E5%88%86%E6%9C%80%E9%AB%98%E7%9A%84%E5%8D%95%E8%AF%8D%E9%9B%86%E5%90%88.cpp)|
 | 711 | [不同岛屿数量II](https://leetcode-cn.com/problems/number-of-distinct-islands-ii/)  |   困难  |  HashMap && Math | [Cpp](https://github.com/solthx/leetcode/blob/master/Hashmap/711.%20%E4%B8%8D%E5%90%8C%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F%20II.CPP)|
-
-
-
+| 973 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)  |   中等  |  Divide or Sort or Heap | [Cpp](https://github.com/solthx/leetcode/blob/master/Divide%20and%20Conquer/973.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8E%9F%E7%82%B9%E7%9A%84%20K%20%E4%B8%AA%E7%82%B9.cpp)|
