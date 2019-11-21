@@ -315,5 +315,5 @@
 | 1263 | [推箱子](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)  |   困难  |  BFS | [Java](https://github.com/solthx/leetcode/blob/master/DFS%20BFS/1263.%20%E6%8E%A8%E7%AE%B1%E5%AD%90.cpp)|
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  |   中等  |  Design && Linklist && HashMap | [Java](https://github.com/solthx/leetcode/blob/master/Design/146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.java)|
 | 808 | [分汤](https://leetcode-cn.com/problems/soup-servings/)  |   中等  |  Dp | [Java](https://github.com/solthx/leetcode/blob/master/Dp/808.%20%E5%88%86%E6%B1%A4.java)|
-| 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/)  |   中等  |  Sort && Greedy && Dp  | [Java](https://github.com/solthx/leetcode/blob/master/Dp/1024.%20%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.cpp)|
+| 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/)  |   中等  |  Sort && Greedy && Dp  | [Java](https://github.com/solthx/leetcode/blob/master/Dp/1024.%20%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.java)|
 | 1003 | [检查替换后的词是否有效](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)  |   中等  |  Stack  | [Java](https://github.com/solthx/leetcode/blob/master/Stack/1003.%20%E6%A3%80%E6%9F%A5%E6%9B%BF%E6%8D%A2%E5%90%8E%E7%9A%84%E8%AF%8D%E6%98%AF%E5%90%A6%E6%9C%89%E6%95%88.java)|
