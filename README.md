@@ -317,3 +317,4 @@
 | 808 | [分汤](https://leetcode-cn.com/problems/soup-servings/)  |   中等  |  Dp | [Java](https://github.com/solthx/leetcode/blob/master/Dp/808.%20%E5%88%86%E6%B1%A4.java)|
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/)  |   中等  |  Sort && Greedy && Dp  | [Java](https://github.com/solthx/leetcode/blob/master/Dp/1024.%20%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.java)|
 | 1003 | [检查替换后的词是否有效](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)  |   中等  |  Stack  | [Java](https://github.com/solthx/leetcode/blob/master/Stack/1003.%20%E6%A3%80%E6%9F%A5%E6%9B%BF%E6%8D%A2%E5%90%8E%E7%9A%84%E8%AF%8D%E6%98%AF%E5%90%A6%E6%9C%89%E6%95%88.java)|
+| 713 | [乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)  |   中等  |  Two Pointers && Array  | [Java](https://github.com/solthx/leetcode/blob/master/Array/713.%20%E4%B9%98%E7%A7%AF%E5%B0%8F%E4%BA%8EK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.java)|
