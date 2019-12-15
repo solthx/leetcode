@@ -334,3 +334,5 @@
 | 834 | [ 树中距离之和 ]( https://leetcode-cn.com/problems/sum-of-distances-in-tree/ )  |  困难 |   Tree && DFS && Dp   | [Java]( https://github.com/solthx/leetcode/blob/master/DFS%20BFS/834.%20%E6%A0%91%E4%B8%AD%E8%B7%9D%E7%A6%BB%E4%B9%8B%E5%92%8C.java )|
 | 679 | [ 24点游戏 ]( https://leetcode-cn.com/problems/24-game/ )  |  困难 |   DFS   | [Java]( https://github.com/solthx/leetcode/blob/master/DFS%20BFS/679.%2024%20%E7%82%B9%E6%B8%B8%E6%88%8F.java )|
 | 644 | [ 最大平均子段和 II ]( https://leetcode-cn.com/problems/maximum-average-subarray-ii/ )  |  困难 |   Binary Search && 前缀和   | [Java]( https://github.com/solthx/leetcode/blob/master/BinarySeach/644.%20%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E5%AD%90%E6%AE%B5%E5%92%8C%20II.java )|
+| 738 | [ 单调递增的数字 ]( https://leetcode-cn.com/problems/monotone-increasing-digits/ )  |  中等 |   Math && 找规律   | [Java](  )|
+
