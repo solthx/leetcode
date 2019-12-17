@@ -64,3 +64,50 @@ public:
         return res;
     }
 };
+
+//===============================二刷分割线=======================================
+
+/*
+    新坑主要是规避越界的情况, 规避越界的方式:
+        1. 改变越界变量的类型( 就本题来说, 就是把可能会越界记录值的变量 从int变为upper )
+        2. 在比较的时候溢出, 即 在比较的时候强制类型转换一下..
+*/
+
+// 下面是本题感觉较为优雅的写法了...
+class Solution {
+public:
+    vector<string> findMissingRanges(vector<int> &nums, int lower, int upper) {
+        // write your code here
+        vector<string> res;
+        // 特殊情况处理
+       if ( nums.size()==0 ){
+            if ( lower==upper ) res.push_back(to_string(lower));
+            else res.push_back(to_string(lower)+"->"+to_string(upper));
+            return res;
+        }
+        // 使用long来处理越界的情况
+        long end = upper;
+        long pre = lower-1;
+        for ( int i=0; i<nums.size(); ++i ){
+            if ( pre+1<nums[i] ){
+                if ( pre+2==nums[i] )
+                    res.push_back(to_string(nums[i]-1));
+                else{
+                    res.push_back( to_string(pre+1)+"->"+to_string(nums[i]-1) );
+                }
+            }
+            pre = nums[i];
+        }
+
+        // 最后一个 lower 的情况单独处理..
+        if ( pre<end ){
+            if ( pre+1==end )
+                res.push_back(to_string(end));
+            else{
+                res.push_back( to_string(pre+1)+"->"+to_string(end) );
+            }
+        }
+
+        return res;
+    }
+};
