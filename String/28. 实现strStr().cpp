@@ -9,6 +9,41 @@
 			每次生成next数组的时候，是每次更新下一个元素 next[++i] = ++j;
 */
 
+
+// 二刷，补充C++版
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        if ( needle.size()==0 )
+            return 0;
+        if ( haystack.size()==0  ) return -1;
+        vector<int> next = get_next( needle );
+        int i=0, j=0;
+        while( i<haystack.size() ){
+            if ( j<0 || haystack[i]==needle[j] ){
+                ++i;
+                ++j;
+            }else j = next[j];
+            if ( j==needle.size() ) return i-j;
+        }
+        return -1;
+    }
+
+    vector<int> get_next( string pat ){
+        int n=pat.size();
+        vector<int> next(n+1,0);
+        int i=0, j=-1;
+        next[0] = -1;
+        while( i<pat.size() ){
+            if ( j<0 || pat[i]==pat[j] ){
+                next[++i] = ++j;
+            }else j=next[j];
+        }
+        return next;
+    }
+};
+
+// C语言版
 class Solution {
 public:
     int strStr(string haystack, string needle) {
