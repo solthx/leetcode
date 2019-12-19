@@ -339,3 +339,4 @@
 | 664 | [ 奇怪的打印机 ]( https://leetcode-cn.com/problems/strange-printer/ )  |  困难 |   Dp   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Dp/664.%20%E5%A5%87%E6%80%AA%E7%9A%84%E6%89%93%E5%8D%B0%E6%9C%BA.cpp )|
 | 1017 | [ 负二进制转换 ]( https://leetcode-cn.com/problems/convert-to-base-2/ )  |  中等 |   Math   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Math/1017.%20%E8%B4%9F%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.cpp )|
 | 1000 | [ 合并石头的最低成本 ]( https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/ )  |  困难 |   Dp   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Dp/1000.%20%E5%90%88%E5%B9%B6%E7%9F%B3%E5%A4%B4%E7%9A%84%E6%9C%80%E4%BD%8E%E6%88%90%E6%9C%AC.cpp )|
+| 837 | [ 新21点 ]( https://leetcode-cn.com/problems/new-21-game/ )  |  中等 |   Dp   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Dp/837.%20%E6%96%B021%E7%82%B9.cpp )|
