@@ -340,3 +340,4 @@
 | 1017 | [ 负二进制转换 ]( https://leetcode-cn.com/problems/convert-to-base-2/ )  |  中等 |   Math   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Math/1017.%20%E8%B4%9F%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.cpp )|
 | 1000 | [ 合并石头的最低成本 ]( https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/ )  |  困难 |   Dp   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Dp/1000.%20%E5%90%88%E5%B9%B6%E7%9F%B3%E5%A4%B4%E7%9A%84%E6%9C%80%E4%BD%8E%E6%88%90%E6%9C%AC.cpp )|
 | 837 | [ 新21点 ]( https://leetcode-cn.com/problems/new-21-game/ )  |  中等 |   Dp   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Dp/837.%20%E6%96%B021%E7%82%B9.cpp )|
+| 600 | [ 不含连续1的非负整数 ]( https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/ )  |  困难 |   Dp   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Dp/600.%20%E4%B8%8D%E5%90%AB%E8%BF%9E%E7%BB%AD1%E7%9A%84%E9%9D%9E%E8%B4%9F%E6%95%B4%E6%95%B0.cpp )|
