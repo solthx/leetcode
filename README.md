@@ -343,3 +343,4 @@
 | 600 | [ 不含连续1的非负整数 ]( https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/ )  |  困难 |   Dp   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Dp/600.%20%E4%B8%8D%E5%90%AB%E8%BF%9E%E7%BB%AD1%E7%9A%84%E9%9D%9E%E8%B4%9F%E6%95%B4%E6%95%B0.cpp )|
 | 792 | [ 匹配子序列单词数 ]( https://leetcode-cn.com/problems/number-of-matching-subsequences/ )  |  中等 |   Array   | [Cpp]( https://github.com/solthx/leetcode/blob/master/Array/792.%20%E5%8C%B9%E9%85%8D%E5%AD%90%E5%BA%8F%E5%88%97%E7%9A%84%E5%8D%95%E8%AF%8D%E6%95%B0.cpp )|
 | 456 | [ 132模式 ]( https://leetcode-cn.com/problems/132-pattern/ )  |  中等 |  Stack    | [Cpp]( https://github.com/solthx/leetcode/blob/master/Stack/456.%20132%E6%A8%A1%E5%BC%8F.cpp )|
+| 675 | [ 为高尔夫比赛砍树 ]( https://leetcode-cn.com/problems/cut-off-trees-for-golf-event/ )  |  困难 |  Heap && BFS    | [Cpp]()|
