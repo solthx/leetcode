@@ -359,3 +359,4 @@
 | 745| [ 前缀和后缀搜索 ]( https://leetcode-cn.com/problems/prefix-and-suffix-search/ )  |  困难  |  Trie Tree    | [Cpp](https://github.com/solthx/leetcode/blob/master/Tree/Tri%20Tree/745.%20%E5%89%8D%E7%BC%80%E5%92%8C%E5%90%8E%E7%BC%80%E6%90%9C%E7%B4%A2.cpp)|
 | 915| [ 分割数组 ]( https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/ )  |  中等  |  Array    | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/915.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84.cpp)|
 | 795 | [ 区间子数组个数 ]( https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/ )  |  中等  |  Array    | [Cpp](https://github.com/solthx/leetcode/blob/master/Array/795.%20%E5%8C%BA%E9%97%B4%E5%AD%90%E6%95%B0%E7%BB%84%E4%B8%AA%E6%95%B0.cpp)|
+| 362 | [ 敲击计数器 ]( https://leetcode-cn.com/problems/design-hit-counter/ )  |  中等  |  Design && BIT板子    | [Cpp](https://github.com/solthx/leetcode/blob/master/Design/362.%20%E6%95%B2%E5%87%BB%E8%AE%A1%E6%95%B0%E5%99%A8.cpp)|
