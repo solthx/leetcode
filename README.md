@@ -362,3 +362,4 @@
 | 362 | [ 敲击计数器 ]( https://leetcode-cn.com/problems/design-hit-counter/ )  |  中等  |  Design && BIT板子    | [Cpp](https://github.com/solthx/leetcode/blob/master/Design/362.%20%E6%95%B2%E5%87%BB%E8%AE%A1%E6%95%B0%E5%99%A8.cpp)|
 | 723 | [ 粉碎糖果 ]( https://leetcode-cn.com/problems/candy-crush/ )  |  中等  |  Simulate && Two Pointer    | [Cpp](https://github.com/solthx/leetcode/blob/master/Simulate/723.%20%E7%B2%89%E7%A2%8E%E7%B3%96%E6%9E%9C.md)|
 | 1335 | [ 工作计划的最低难度 ]( https://leetcode-cn.com/problems/minimum-difficulty-of-a-job-schedule/ )  |  困难  |  Dp    | [Cpp](https://github.com/solthx/leetcode/blob/master/Dp/1335.%20%E5%B7%A5%E4%BD%9C%E8%AE%A1%E5%88%92%E7%9A%84%E6%9C%80%E4%BD%8E%E9%9A%BE%E5%BA%A6.md)|
+| 835 | [ 图像重叠 ]( https://leetcode-cn.com/problems/image-overlap/ )  |  中等  |  Hashmap && Array    | [Cpp](https://github.com/solthx/leetcode/blob/master/Hashmap/835.%20%E5%9B%BE%E5%83%8F%E9%87%8D%E5%8F%A0.md)|
